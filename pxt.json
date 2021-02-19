@@ -9,8 +9,8 @@
     },
     "files": [
         "README.md",
-        "main.blocks",
-        "main.ts"
+        "test.ts",
+        "ds18b20.cpp"
     ],
     "testFiles": [
         "test.ts"
