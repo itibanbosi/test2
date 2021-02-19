@@ -5,7 +5,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "test2": "github:itibanbosi/test2#ee2ffef0e4f72da9fa425a977d848acfbbca4ed2"
     },
     "files": [
         "README.md",
@@ -19,5 +20,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
